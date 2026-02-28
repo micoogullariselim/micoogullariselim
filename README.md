@@ -9,7 +9,7 @@
   <a href="https://selimmicoogullari.com.tr">
     <img src="https://img.shields.io/badge/🌐-Portföyüm-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/selim-miçooğulları-115143256">
+  <a href="https://www.linkedin.com/in/selim-mi%C3%A7oo%C4%9Fullar%C4%B1-115143256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>

@@ -9,7 +9,7 @@
   <a href="https://selimmicoogullari.com.tr">
     <img src="https://img.shields.io/badge/🌐-Portföyüm-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/selim-micogullari">
+  <a href="www.linkedin.com/in/selim-miçooğulları-115143256">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -30,8 +30,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white">
 </p>

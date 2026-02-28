@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋 Ben Selim Miçoğulları</h1>
+<h1 align="center">Merhaba 👋 Ben Selim Miçooğulları</h1>
 
 <p align="center">
   Veri bilimi, makine öğrenmesi ve yapay zeka üzerine çalışan bir mühendisim.<br>
